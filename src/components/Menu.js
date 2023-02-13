@@ -18,7 +18,7 @@ const Menu = (props) => {
             คำถามที่พบบ่อย
            </div>
            <div className="font-menu">
-            ช่องทางการติดต่อ
+            ช่องทางการติดต่อออ
            </div>
         </div>
     </div>
