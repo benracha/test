@@ -1,0 +1,12 @@
+.container {
+    padding-top: 30px;
+    margin-left: 273px;
+    margin-right: 273px;
+    width: 1340px;
+    height: 3231px;
+}
+
+.itemproduct {
+    display: flex;
+    justify-content: space-between;
+}

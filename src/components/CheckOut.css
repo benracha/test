@@ -1,0 +1,266 @@
+.checkout {
+    width: 1903px;
+    height: auto;
+    padding-top: 30px;
+    padding-left: 96px;
+    padding-right: 96px;
+    display: flex;
+    background-color: white;
+}
+
+.b-co {
+    width: 854.5px;
+    height: 100%;
+    padding-left: 57px;
+    padding-right: 57px;
+    padding-top: 14px;
+    border-right: 1px solid rgba(0, 0, 0, 0.062);
+
+}
+
+.b-co2 {
+    width: 854.5px;
+    height: 100%;
+    padding-left: 57px;
+    padding-right: 57px;
+    padding-top: 14px;
+
+}
+
+.co {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 30px;
+}
+
+.pd-co {
+    width: 100%;
+    height: 80px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.am-co {
+    width: 100%;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.dt-co {
+    width: 320px;
+    height: 100%;
+    display: flex;
+}
+
+.im-co {
+    border: 1px solid rgba(0, 0, 0, 0.24);
+    width: 79px;
+    height: 79px;
+    border-radius: 8px;
+}
+
+.am-pd {
+    width: 108px;
+    height: 100%;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 23px;
+}
+
+.pri-pd {
+    width: 112px;
+    height: 100%;
+}
+
+.dt-prod {
+    width: 100%;
+    height: 100%;
+    padding-left: 10px;
+}
+
+.name-p {
+    width: 100%;
+    height: 20px;
+    margin-bottom: 7px;
+    margin-top: 10px;
+    font-size: 16px;
+
+}
+
+.detail-p {
+    width: 100%;
+    height: 28px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+    font-size: smaller;
+}
+
+.box-im {
+    width: 80px;
+    height: 80px;
+}
+
+.lob {
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    border: 0.025px solid rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.amount-pro {
+    width: 30px;
+    height: 30px;
+    font-size: 25px;
+    font-weight: lighter;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+.bauk {
+    border: 0.025px solid rgb(0, 0, 0);
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.price-co {
+    width: 112px;
+    height: 32px;
+    margin-top: 14px;
+    font-weight:normal;
+    font-size: 23px;
+    display: flex;
+    justify-content: end;
+}
+
+.v {
+    width: 112px;
+    height: 16px;
+    font-size: small;
+}
+
+.num-pro {
+    width: 180px;
+    height: 100%;
+    display: flex;
+}
+
+.num-b {
+    width: 48px;
+    height: 48px;
+    margin-right: 10px;
+}
+
+.num {
+    border: 1px solid rgba(0, 0, 0, 0.233);
+    width: 48px;
+    height: 48px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    padding-top: 13px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.dt-num {
+    width: 100%;
+    height: 100%;
+    padding-top: 4px;
+}
+
+.pri-sum {
+    width: 105px;
+    height: 52px;
+}
+
+.p-s {
+    width: 100%;
+    height: 34px;
+    font-size: 23px;
+    font-weight: bolder;
+    padding-top: 5px;
+}
+
+.text-v {
+    width: 100%;
+    height: 20px;
+    display: flex;
+    justify-content: end;
+}
+
+.b-call {
+    width: 100%;
+    height: 128px;
+}
+
+.call {
+    width: 370px;
+    height: 100%;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-bottom: 15px;
+}
+
+.num-call {
+    width: 100%;
+    height: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.input {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: rgba(0, 0, 0, 0.082);
+    border: none;
+    border-radius: 5px;
+}
+
+.bt-call {
+    width: 100%;
+    height: 38px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bt-back {
+    width: 352px;
+    height: 38px;
+    margin-top: 6px;
+}
+
+.hr {
+    margin-bottom: 10px;
+}
+
+.back {
+    width: 100%;
+    height: 100%; 
+    border: 0.5px solid black;
+    border-radius: 5px;
+    background: none;
+    cursor: pointer;
+}
+
+.next {
+    width: 100%;
+    height: 100%; 
+    border: none;
+    border-radius: 5px;
+}

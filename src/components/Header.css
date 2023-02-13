@@ -1,0 +1,56 @@
+.sidebar {
+    display: flex;
+    justify-content:space-between;
+}
+
+.menu {
+    position: relative;
+    display: block;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 15px;
+    z-index: 150;
+}
+
+.logo {
+    width: 144px;
+    height: 30px;
+    text-align: center;
+    line-height: 25px;
+    margin-left: 80px;
+   
+}
+
+.right {
+    display: flex;
+    justify-content: space-between;
+    width: 139px;
+    height: 24px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.language {
+    display: flex;
+}
+
+.sizelanguage {
+    font-size: 16px;
+}
+
+.bt {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.tabbar {
+    width: 1903px;
+    height: 44px;
+    padding-left: 10px;
+    padding-right: 7px;
+    padding-top: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.062);
+}

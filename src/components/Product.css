@@ -1,0 +1,112 @@
+.card {
+    width: 273.281px;
+    height: 597px;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.lalamove {
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    height: 30px;
+}
+
+.product {
+    
+    /* เรียงจากซ้ายไปขวา */
+    display: flex;
+    /* จัดให้อยู่ตรงกลางภายในborder */
+    justify-content: center;
+    cursor: pointer;
+  }
+
+  .name-product {
+    
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .detail {
+    
+    text-align: center;
+    color: grey;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+  .details {
+    text-decoration: underline;
+    color: rgb(62, 207, 207);
+    cursor: pointer;
+  }
+
+  .number {
+    
+    display: flex;
+    justify-content: center;
+  }
+
+  .btn { 
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  .two {
+    width: 50px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    padding-top: 5px;
+
+  }
+
+  .boxprice {
+    
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+  }
+  .price {
+    
+    width: 120px;
+    height: 86px;
+  }
+
+  .font-price {
+    font-size: 25px;
+  }
+
+  .button-add {
+    
+    width: 100px;
+    height: 40px;
+
+    
+  }
+
+  .button {
+    background: none;
+    padding-top: 10px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    /* เมื่อเป้าไปโดนจะขึ้นรูปมือ */
+    cursor: pointer;
+    /* สร้างขอบมนของปุ่ม */
+    border-radius: 8px;
+    border: 1px solid black;
+  }
+
+  .add {
+    font-size: 16px;
+  }
